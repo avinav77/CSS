@@ -1,0 +1,22 @@
+.jk{
+    background-color: green;
+    color: yellow;
+           padding: 4px;
+           margin: 2px;
+           font-family: Georgia, 'Times New Roman', Times, serif;
+           font-size: larger;
+}
+#ab{
+    background-color: aqua;
+}
+p{
+    background-color: bisque;
+}
+.jk .lk{
+    background-color: aqua;
+    color: blanchedalmond;
+}
+.jk .ar{
+    background-color: blueviolet;
+    color: aqua;
+}
